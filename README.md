@@ -1,4 +1,5 @@
-# VZB
+# Vision Zero Boston
+
 Vision Zero, Traffic Crashes, Spatial Statistics and City of Boston
 
 Traffic Crash Map: http://app01.cityofboston.gov/visionzero/
